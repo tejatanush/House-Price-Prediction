@@ -20,6 +20,18 @@ Visualize results
 **Financial Institutions:** Banks and lenders use predictive models to assess property values, mitigate lending risks, and ensure the stability of loan portfolios.  
 ### Compiler Type:  
 I used a compiler CPU provided in google colab while running this project.
-### Some Important Visualizations  
-![Comparing Results](Comparision of Actual price and Predicted Price.png)  
+## Results  
+### This model have mse of 0.0089 on trained data and 0.0108 on test data  
+## References  
+Housing.csv-> https://www.kaggle.com/datasets/yasserh/housing-prices-dataset  
+## Requirements  
+Pandas  
+Numpy  
+Matplotlib  
+Tensorflow  
+Tensorflow Sequential API  
+## Programmes  
+Python  
+## Owner  
+[Teja Tanush](https://github.com/tejatanush)  
 
